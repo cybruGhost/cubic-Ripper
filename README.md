@@ -1,5 +1,3 @@
-Here’s a clean and professional version of your README.md for Cubic Ripper:
-
 
 ---
 
