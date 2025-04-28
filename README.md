@@ -78,14 +78,3 @@ Cubic Ripper is intended for educational and personal use only. Downloading copy
 
 
 ---
-
-🪪 License
-
-MIT License — for open innovation and freedom of creation.
-
-> Built by Cubic Company. Designed to Inspire Life.
-
-
-
-Let me know if you'd like to add progress indicators, multi-format support (e.g., MP4), or convert this into a full desktop GUI!
-
