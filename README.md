@@ -18,7 +18,7 @@
 
 ## 🛠️ Technologies Used
 
-- **Python** (core logic)
+- **Python** (core logic) main language
 - **Pytube** (YouTube video parsing)
 - **HTML/CSS/JavaScript** (frontend interface)
 - **Flask** or **Tkinter WebView** (depending on your setup)
